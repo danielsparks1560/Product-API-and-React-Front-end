@@ -8,6 +8,6 @@ Install maven (may need to use chocolatey)
 
 Run java maven back end (local host 8080)
 
-Run front end using npm start in ..\Product-API-and-React-Front-end\ReactFrontEnd\package-front-end
+Run front end using npm start in ..\Product-API-and-React-Front-end\ReactFrontEnd\package-front-end\src
 
 Front end should be auto connected to 8080 local host
